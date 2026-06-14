@@ -1,0 +1,6 @@
+# Ignorar el archivo de la base de datos local
+*.db
+*.sqlite3
+
+# Ignorar las credenciales de tu API Key
+.env
